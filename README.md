@@ -10,7 +10,7 @@ Generate ready-to-run Python scripts for your Meshtastic devices - no coding exp
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/heathenft/meshtastic-claude-skill.git
+   git clone https://github.com/LoserLab/meshtastic-claude-skill.git
    ```
 
 2. Copy the skill to your Claude Code skills folder:
