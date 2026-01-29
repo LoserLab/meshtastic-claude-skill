@@ -6,6 +6,8 @@ Generate ready-to-run Python scripts for your Meshtastic devices - no coding exp
 
 **Author:** [Heathen](https://x.com/heathenft)
 
+**Built in [Mirra](https://getmirra.app)**
+
 ## Installation
 
 1. Clone this repository:
